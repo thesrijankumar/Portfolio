@@ -1,3 +1,5 @@
 # Protfolio 
 
-nothing major, just my portfolio. soon will be live ^_^
+nothing major, just my portfolio.
+
+website is live [here](https://info.billusanda.xyz/)
